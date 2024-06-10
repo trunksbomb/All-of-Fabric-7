@@ -97,10 +97,10 @@
       "text": ""
     },
     "description": [
-      "These drinks provides a minor buff, like some kind of simpler potion",
+      "These drinks provides a minor buff, like some kind of simpler potion.",
       "<br/>",
       "<br/>",
-      "Milk bottles allow to quadruple how much food you can make with a bucket of milk, while clearing an effect"
+      "Milk bottles allow you to quadruple how much food you can make with a single bucket of milk, while also clearing a negative status effect if consumed."
     ],
     "groups": {
       "Farmer O' Worlds": {
