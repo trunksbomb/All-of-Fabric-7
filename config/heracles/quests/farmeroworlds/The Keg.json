@@ -40,19 +40,19 @@
       "text": ""
     },
     "description": [
-      "The keg is where you will ferment all the new drinks and some foods, the keg has 5 temperatures, every recipe will require a specific one",
+      "The keg is where you will ferment all the new drinks and some foods from /a/Brewin and Chewin/a/. The keg has 5 temperatures, and every recipe will require a specific one.",
       "<br/>",
       "<br/>",
-      "/7/Normal/7/ is the default temperature when the keg is placed with nothing surrounding it",
+      "/7/Normal/7/ is the default temperature when the keg is placed with nothing surrounding it.",
       "<br/>",
       "<br/>",
-      "/6/Warm/6/ is achieved by placing hot blocks like magma blocks or lava around the keg in a 3x3x3 area with the keg being the center of the cube, /c/Hot/c/ is achieved by adding even more blocks around the keg",
+      "/6/Warm/6/ is achieved by placing hot blocks like magma blocks or lava around the keg in a 3x3x3 area with the keg being the center of the cube; /c/Hot/c/ is achieved by adding even more blocks around the keg.",
       "<br/>",
       "<br/>",
-      "/b/Cold/b/ is achieved by placing cold blocks like snow or any kind of ice around the keg in a 3x3x3 area with the keg being the center of the cube, /1/Frigid/1/ is achieved by adding even more blocks around the keg",
+      "/b/Cold/b/ is achieved by placing cold blocks like snow or any kind of ice around the keg in a 3x3x3 area with the keg being the center of the cube; /1/Frigid/1/ is achieved by adding even more blocks around the keg.",
       "<br/>",
       "<br/>",
-      "Biome temperature won't change the temperature of the keg but it will change how many blocks are needed to change the temperature, for example if you are in a desert you will need fewer hot blocks to make it warm but you will need more cold blocks to make it cold"
+      "Biome temperature won't change the temperature of the keg but it will change how many blocks are needed to change the temperature, for example if you are in a desert you will need fewer hot blocks to make it warm but you will need more cold blocks to make it cold."
     ],
     "groups": {
       "Farmer O' Worlds": {
